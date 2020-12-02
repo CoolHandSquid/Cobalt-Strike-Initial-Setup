@@ -1,2 +1,2 @@
 # Cobalt-Strike-Initial-Setup
-Automation of the setup of a redirector, CS, metasploit and initial enumeration (excellent for lab enviroments).
+* Automate the setup of a redirector, Cobalt Strike, Metasploit and the initial enumeration of a network (excellent for lab enviroments).
